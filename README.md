@@ -1,17 +1,17 @@
 # Roy Ma
 
-9467 Stonewall Rd., Manassas, VA, 20110  
+9467 Stonewall Rd., Manassas, VA, 20110, U.S.
 Email: [roy.ma9@gmail.com](roy.ma9@gmail.com) | Phone: +8613810670799  
 [GitHub](github.com/Creative-Ataraxia)
 
 ## Profile Summary
 
-Full-stack Developer with 5+ years of expertise in architecting and deploying robust, scalable web applications. Proficient with modern technologies including Python, TypeScript, React, Next.js, Node.js, and various database systems. Able to 10x learning and integrating new technologies into production. Experience in designing immersive 3D experiences and AI-powered applications. Proven track record in frontend and backend development, complimented by independent problem-solving skills and a passion for continuous learning. Native fluency in English and Chinese.
+Full-stack Developer with 5+ years of React.js experience building and deploying robust, scalable web applications. Proficient with modern technologies including Python, TypeScript, React, Next.js, Node.js, Three.js and various database systems. Able to 10x learning and integrating new technologies into existing production bases. Experience in full-pipline immersive 3D experiences and AI-powered applications. Proven track record in both frontend and backend development, complimented by independent problem-solving skills and a passion for continuous learning. Native fluency in English and Chinese. Licensesd US Securities Representative with 7+ years of experience in the investment industry.
 
 ## Technical Skills
 
 - **Languages:** Python, JavaScript, TypeScript
-- **Frontend:** React, Vue.js, WebGL, A-Frame, Next.js, Nuxt.js, React Native, Tailwind for styling, Jest and Playwright for testing
+- **Frontend:** React, Vue.js, Next.js, Nuxt.js, React Native, WebGL, A-Frame, Tailwind, Jest, Playwright, 
 - **Backend:** Node.js, Redis, MongoDB, PostgreSQL, Firebase, AWS (SES, EC2 VPC, S3)
 - **Data Engineering:** ETL processes, ACID transactions, ORMs, caching, and encryption
 - **Design Patterns and Principles:** TDD, CQRS, SOA, serverless, and monolithic architectures
@@ -22,28 +22,28 @@ Full-stack Developer with 5+ years of expertise in architecting and deploying ro
 
 ## Professional Experience
 
-### Independent Software Developer, Freelancer | 2019 - present
+### Independent Software Developer, Freelancer | Jan 2019 - present
 
 - Developed and maintained full-stack applications, progressive web apps, static websites, game development projects, and 3D asset designs.
 - Contributed to several open-source projects focusing on frontend development and WebGL technologies.
 - Independently developed apps from zero to deployment.
 
-### Director of Business Development, Cleveland International Fund | 2017 - 2019
+### Director of Business Development, Cleveland International Fund | Mar 2017 - Jan 2019
 
 - Drove fundraising efforts, asset management, and due diligence processes while managing a diverse investor portfolio.
 - Led team to develop and execute strategic business development initiatives.
 
-### Head Of International Department, MultiBank Group | 2016 - 2017
+### Head Of International Department, MultiBank Group | Jan 2016 - Mar 2017
 
 - Supervised a sales team of 25, managed investors, and devised effective trading strategies.
 - Demonstrated proficiency in managing high-value trades and investor relationships.
 
-### Director (China), Great Texas Fund | 2010 - 2016
+### Director (China), Great Texas Fund | Dec 2010 - Jan 2016
 
 - Directed fundraising efforts, asset management, and due diligence processes for the China division.
 - Managed investor relationships and coordinated multi-disciplinary teams for maximum efficiency.
 
-### Para Legal, Kalik & Lewin | 2008 - 2010
+### Para Legal, Kalik & Lewin | Sept 2008 - Dec 2010
 
 - Facilitated communication between US government entities, clients, and stakeholders.
 - Assisted partner lawyer in managing legal cases and client relationships.
@@ -62,7 +62,7 @@ Full-stack Developer with 5+ years of expertise in architecting and deploying ro
 
 ## Education
 
-Bachelor of Economics, University of Maryland, Baltimore County
+Bachelor in Economics, University of Maryland Baltimore County, 2009
 
 ## Languages
 
