@@ -28,6 +28,8 @@ Software Engineer with a strong focus on frontend and UX design, with over 5 yea
 
 - **Multi Chat UI** - A chatbot UI designed for easy adaptation and extension to various smart service endpoints. It focuses on improving user-AI interaction and experience. Written in React + Next.js. [Project Link](https://chatbot-compilation.vercel.app) *Aiming to grow Chinese speaking users, current default UI in Mandarin*
 
+- **TLDR** - A simple next.js app that extract text from an image, then return an AI response based on the image back to the user. [Project Link](https://tldr-aibot.vercel.app)
+
 - **Philosophy Chat** - A chatbot designed to provide deep, meaningful conversations with users. It demonstrates effective utilization of AI systems and showcases my ability to embed large amounts of data in language models, and the integration of vector databases. Written in Python + Streamlit. [Project Link](https://philosophy-chat.streamlit.app)
 
 - **3D Gallery** - A 3D room designed to demonstrate the practical application of 3D technologies in web development, focusing on immersive user experience. [Project Link](https://creative-ataraxia.github.io)
