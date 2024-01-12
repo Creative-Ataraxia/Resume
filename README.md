@@ -6,7 +6,7 @@ Email: [roy.ma9@gmail.com](roy.ma9@gmail.com) | Mobile: +8613810670799
 
 ## Profile Summary
 
-Dynamic and versatile **finance** professional from the U.S. with over 10 years of experience, particularly in **private placement fund** and cross-border investment management (China/U.S.) coupled with a 5-year transition into the tech sector. Now possessing a diverse skill set that focuses on **Frontend/Webapp** (React/Next), **3D** (Blender, Unreal Engine 5), and **Data Science/Machine Learning**. Natively bilingual in **English, Chinese**, proficient in **Japanese**, offering deep cross-cultural understanding. Excel at **leading teams**, **managing projects**, with a keen interest in **FinTech**, **EdTech**, and **Business intelligence/Data analytics**. Adapt quickly to new technologies, aiming to leverage my financial and tech expertise in a dynamic, global company.
+Dynamic and versatile **finance** professional from the U.S. with over 10 years of experience, particularly in **private placement funds** and cross-border investment management (China/U.S.) coupled with a 5-year transition into the tech sector. Now possessing a diverse skill set that focuses on **Frontend/Webapp** (React/Next), **3D** (Blender, Unreal Engine 5), and **Data Science/Machine Learning**. Natively bilingual in **English, Chinese**, proficient in **Japanese**, offering deep cross-cultural understanding. Excel at **leading teams**, **managing projects**, with a keen interest in **FinTech**, **EdTech**, and **Business intelligence/Data analytics**. Adapt quickly to new technologies, aiming to leverage my financial and tech expertise in a dynamic, global company.
 
 ## Technical Skills
 
