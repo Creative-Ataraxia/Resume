@@ -1,34 +1,47 @@
 # Roy Ma
 
-9467 Stonewall Rd., Manassas, VA, 20110, U.S.
-Email: [roy.ma9@gmail.com](roy.ma9@gmail.com) | Phone: +8613810670799  
-[GitHub](github.com/Creative-Ataraxia)
+Address: 9467 Stonewall Rd., Manassas, VA, 20110, U.S.  
+Email: [roy.ma9@gmail.com](roy.ma9@gmail.com) | Mobile: +8613810670799  
+[GitHub](https://github.com/Creative-Ataraxia/Creative-Journey) | [Artstation](https://www.artstation.com/creative_ataraxia)  
 
 ## Profile Summary
 
-Software Engineer with a strong focus on frontend and UX design, with over 5 years of experience working with technologies such as React, TypeScript, Node and databases. Skilled in developing web applications and software solutions, with a deep understanding of developing AI models and systems powered products. Demonstrated ability in collecting and analyzing qualitative and quantitative data to improve human-AI interactions. Adept at collaborating across multiple teams and departments, translating technical data into user-friendly interfaces.
+Dynamic and versatile **finance** professional from the U.S. with over 10 years of experience, particularly in **private placement fund** and cross-border investment management (China/U.S.) coupled with a 5-year transition into the tech sector. Now possessing a diverse skill set that focuses on **Frontend/Webapp** (React/Next), **3D** (Blender, Unreal Engine 5), and **Data Science/Machine Learning**. Natively bilingual in **English, Chinese**, proficient in **Japanese**, offering deep cross-cultural understanding. Excel at **leading teams**, **managing projects**, with a keen interest in **FinTech**, **EdTech**, and **Business intelligence/Data analytics**. Adapt quickly to new technologies, aiming to leverage my financial and tech expertise in a dynamic, global company.
 
 ## Technical Skills
 
-- **Languages:** Python, JavaScript, TypeScript
-- **Frontend:** React, Vue.js, Next.js, Nuxt.js, React Native, WebGL, A-Frame, Tailwind, Jest, Playwright
-- **Backend:** Node.js, Redis, MongoDB, PostgreSQL, Firebase, AWS (SES, EC2 VPC, S3)
-- **AI** Proficient in coding with large language models, experience in designing and implementing user interactions with AI models and systems
-- **User Experience** Design and development of interactive user interfaces, with a focus on enhancing human-AI collaboration
-- **Data Engineering:** ETL processes, ACID transactions, ORMs, caching, and encryption
-- **Design Patterns and Principles:** TDD, CQRS, SOA, serverless, and monolithic architectures
-- **Scaling and Monitoring:** Nginx, GraphQL, Kubernetes, load shifting, throttling, circuit breaking etc.
-- **3D Design:** Game-ready 3D assets using Blender, 3D scenes using Unreal Engine, proficient with entire pipeline; other DCCs: Photoshop, DaVinci Resolve, Substance Designer
-- **DevOps:** CI/CD pipelines using Github Actions, Ansible
-- **Version Control:** Proficient with Git
+- **Languages:** Python, JavaScript, TypeScript;
+- **Frontend:** React, Next.js, Three.js, WebGL, Tailwind;
+- **AI** Coding and implementing LLMs; Design and development of AI-integrated interfaces;
+- **UX** Design and development of interactive user interfaces, with a focus on enhancing human-AI collaborations
+- **Design Patterns:** TDD, CQRS, SOA, serverless, and monolithic architectures
+- **3D:** Blender (game-ready assets, scenes); Engine Proficiency: Unreal Engine; Additional Tools: Photoshop, DaVinci Resolve, Substance Designer
+- **DevOps:** CI/CD pipelines; Version Control: Proficient with Git
 
-## Personal Projects
+## Professional Experiences
+
+### Technology Partner, 北京世界线企业管理咨询有限公司, Beijing | Jan 2019 - present
+- Consulted, led and developed AI-driven technology solutions for the auditing and accounting industry
+
+### Director of Business Development, Cleveland International Fund, Cleveland | Mar 2017 - Jan 2019  
+- Led team to implement BD strategies; Developed interactive investor management tools; Led research efforts to improve investor relations.
+
+### Head Of International Department, MultiBank Group, Beijing | Jan 2016 - Mar 2017  
+- Managed team of 25; Developed and implemented technology in arbitrage algorithms
+
+### Director (China), Great Texas Fund, Houston | Dec 2010 - Jan 2016  
+- Directed fundraising efforts, asset management, and due diligence processes.
+
+### Para Legal, Kalik & Lewin, Washington D.C. | Sept 2008 - Dec 2010  
+- Assisted in managing legal cases and facilitated dialogues between major stakeholders globally.
+
+## Tech Projects
 
 - **Datavis** - A VR-based web application designed to improve insight acquisition from data. It synergizes data with AI analysis, offering users quick and in-depth insights. It was designed with a focus on improving user experience and interaction with AI systems. Written in React + Threejs. [Project Link](https://datavis-one.vercel.app)
 
-- **Multi Chat UI** - A chatbot UI designed for easy adaptation and extension to various smart service endpoints. It focuses on improving user-AI interaction and experience. Written in React + Next.js. [Project Link](https://chatbot-compilation.vercel.app) *Aiming to grow Chinese speaking users, current default UI in Mandarin*
+- **Multi Chat UI** - A chatbot UI designed for easy adaptation and extension to various smart service endpoints. It focuses on improving user-AI interaction and experience. Written in React + Next.js. [Project Link](https://chatbot-compilation.vercel.app) *Aiming to grow Chinese-speaking users, current default UI in Mandarin*
 
-- **TLDR** - A simple next.js app that extract text from an image, then return an AI response based on the image back to the user. [Project Link](https://tldr-aibot.vercel.app)
+- **TLDR** - A simple next.js app that extracts text from an image, then returns an AI response based on the image back to the user. [Project Link](https://tldr-aibot.vercel.app)
 
 - **Philosophy Chat** - A chatbot designed to provide deep, meaningful conversations with users. It demonstrates effective utilization of AI systems and showcases my ability to embed large amounts of data in language models, and the integration of vector databases. Written in Python + Streamlit. [Project Link](https://philosophy-chat.streamlit.app)
 
@@ -36,40 +49,10 @@ Software Engineer with a strong focus on frontend and UX design, with over 5 yea
 
 - **Art Portfolio** - A showcase of 3D experiences and scenes. This personal portfolio showcases the effective use of 3D technologies in creating immersive user experiences. Main techs including UE5, blender, PS, AE [Project Link](https://creative_ataraxia.artstation.com)
 
-## Professional Experience
-
-### Software Developer, Freelancer | Jan 2019 - present
-
-- Developed web applications with a focus on user experience and interaction with AI models and systems.
-- Gathered and analyzed both qualitative and quantitative data to inform system design and improvements.
-- Built interactive and user-friendly interfaces, ensuring efficient human-AI collaboration.
-- Worked closely with clients to understand their needs and translated them into effective digital solutions.
-
-### Director of Business Development, Cleveland International Fund | Mar 2017 - Jan 2019
-
-- Successfully led a team to strategize and implement business development initiatives.
-- Applied my technical skills to the development of interactive client-investor management tools.
-- Conducted A/B testing and other research methods to understand and improve investor experiences.
-
-### Head Of International Department, MultiBank Group | Jan 2016 - Mar 2017
-
-- Led and supervised an independent team of 25, utilizing my strong communication skills and technical knowledge.
-- Worked on developing and implementing arbitrage algorithms, and focusing on improving stakeholder experiences and satisfaction.
-
-### Director (China), Great Texas Fund | Dec 2010 - Jan 2016
-
-- Managed investor relationships and coordinated multi-disciplinary teams for maximum efficiency.
-- Directed fundraising efforts, asset management, and due diligence processes.
-
-### Para Legal, Kalik & Lewin | Sept 2008 - Dec 2010
-
-- Utilized my strong communication skills to facilitate dialogue between various stakeholders.
-- Assisted in managing legal cases and client relationships.
-
 ## Education
 
-Bachelor in Economics, University of Maryland Baltimore County, 2009
+B.A. in Economics, University of Maryland Baltimore County, 2009
 
 ## Languages
 
-English (Native), Chinese (Native), Japanese (Conversational)
+English (Native), Chinese (Native), Japanese (Proficient)
