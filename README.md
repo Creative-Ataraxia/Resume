@@ -26,7 +26,7 @@ Dynamic and versatile U.S.-based *finance* professional with over a decade of ex
 
 ## Professional Experiences
 
-### Technology Partner, <span style="font-size: 5px;">北京世界线企业管理咨询有限公司</span>, Beijing | Jan 2019 - present
+### Technology Partner, <span style="font-size: 17px;">北京世界线企业管理咨询有限公司</span>, Beijing | Jan 2019 - present
 - Consulted, led, and developed AI-driven technology solutions for the auditing and accounting industry.
 
 ### Director of Business Development, Cleveland International Fund, Cleveland | Mar 2017 - Jan 2019  
